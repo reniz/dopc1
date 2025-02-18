@@ -1,5 +1,3 @@
-# Wolt 2025 Backend Engineering Internship
-
 ## Prerequisites
 
 - **Python**: 3.12.2
