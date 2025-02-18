@@ -9,8 +9,7 @@
 
 ## Installation Instructions
 
-### **Download the Project**
-- Download the project zip file from Google Drive.
+### **Download the Project*
 - Extract the contents to a folder on your local machine.
 
 ---
